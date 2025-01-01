@@ -68,4 +68,4 @@ Ensure the following are installed:
 ## Contributors
 This project was developed as part of *CSE299: Junior Design Project* at North South University. Contributors include:
 - Ahnaf Tazwar Unmesh  
-- Faisal Bin Zaman
+- Faisal Bin Zihan
