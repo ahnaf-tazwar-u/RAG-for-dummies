@@ -49,7 +49,6 @@ Ensure the following are installed:
 
 #### Steps to Set Up
 1. Clone the repository.
--
 2. Set up a virtual environment and activate it.  
 4. Install the dependencies using the `requirements.txt` file.  
 5. Install and configure Docker for Ollama: enable CPU virtualization via BIOS/UEFI and run the Ollama Docker model.  
